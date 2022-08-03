@@ -1,7 +1,6 @@
 {
-  "index": "Introduction",
-  "get-started": "Get Started",
+  "getting-started": "入门",
+  "quickstart": "快速开始",
   "features": "Features",
-  "themes": "Themes",
   "advanced": "Advanced"
 }
